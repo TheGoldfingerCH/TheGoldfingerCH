@@ -1,70 +1,95 @@
-# Hi, I'm Nicolas 👋
+# Hey, I'm Nicolas Geng 👋
 
-**Data Scientist / AI Practitioner (junior) - focused on applied AI projects and real-world data problems.**
+**Data Science & AI graduate from Le Wagon | Building practical AI and data projects in public 🚀**
 
-I recently completed the Data Science & AI program at Le Wagon.  
-I build and share practical projects in machine learning and AI, with a strong focus on clarity, reproducibility, and honest reporting of results.
+> I am specializing in AI while keeping strong data foundations: clear problem framing, measurable results, and honest reporting.
 
-## Current Focus
+<p align="left">
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a>
+  <a href="https://xgboost.readthedocs.io"><img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"></a>
+  <a href="https://facebook.github.io/prophet/"><img src="https://img.shields.io/badge/Prophet-0A66C2?style=for-the-badge&logo=plotly&logoColor=white" alt="Prophet"></a>
+  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
+  <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+</p>
 
-- Specializing further in AI (ML + GenAI workflows)
-- Strengthening my data foundations (EDA, modeling, evaluation, data storytelling)
-- Building a clean and credible GitHub portfolio for Data/AI roles
+## 🔥 Currently Building
 
-## Highlighted Projects
+- An AI-focused GitHub portfolio with clean, reproducible, recruiter-friendly projects
+- End-to-end ML case studies from problem framing to model evaluation
+- Better project storytelling: context, method, results, and limits
 
-### 1) [Project Name]
-- **Problem:** [1 line]
-- **Approach:** [1 line]
-- **Stack:** Python, [libraries]
-- **Result:** [factual metric or outcome]
-- **Repo:** [link]
+## 🎯 Current Focus
 
-### 2) [Project Name]
-- **Problem:** [1 line]
-- **Approach:** [1 line]
-- **Stack:** Python, [libraries]
-- **Result:** [factual metric or outcome]
-- **Repo:** [link]
+- 🤖 Going deeper into **AI** (ML + GenAI workflows)
+- 📊 Strengthening core **Data Science** skills (EDA, modeling, evaluation, storytelling)
+- 🧱 Building a clean, recruiter-friendly GitHub portfolio
 
-### 3) [Project Name]
-- **Problem:** [1 line]
-- **Approach:** [1 line]
-- **Stack:** Python, [libraries]
-- **Result:** [factual metric or outcome]
-- **Repo:** [link]
+## 🏆 Highlighted Projects
 
-## How I Work
+### 1) AI_for_Finance
+- **Problem:** Build a minimal and reusable finance-oriented ML prediction service.
+- **Approach:** Expose a prediction API with FastAPI and package the project for local and cloud deployment.
+- **Stack:** Python, FastAPI, Docker, Jupyter Notebook
+- **Result:** Public service deployed with documented endpoints (`/` and `/predict`) and Swagger docs.
+- **Repo:** https://github.com/TheGoldfingerCH/AI_for_Finance
 
-- I start from a clear problem statement
-- I compare baseline vs improved approaches
-- I document assumptions, limitations, and next steps
-- I prioritize reproducibility (clear README, setup steps, project structure)
+### 2) data-fast-api
+- **Problem:** Create a practical API-first project structure for serving data/ML features.
+- **Approach:** Build a lightweight FastAPI service with clear endpoint structure and reproducible setup.
+- **Stack:** Python, FastAPI, Docker
+- **Result:** Working repository focused on API delivery and clean backend foundations for data use cases.
+- **Repo:** https://github.com/TheGoldfingerCH/data-fast-api
 
-## Tech Stack
+### 3) data-agents
+- **Problem:** Explore agent-based workflows for data and AI tasks.
+- **Approach:** Prototype agent-oriented patterns to automate multi-step data/AI operations.
+- **Stack:** Python, AI/ML tooling, agent workflows
+- **Result:** Active experimentation repository to develop practical agentic use cases.
+- **Repo:** https://github.com/TheGoldfingerCH/data-agents
+
+## 🧠 How I Build
+
+- Start from a clear real-world problem
+- Compare baseline vs improved approaches
+- Document assumptions, trade-offs, and limitations
+- Prioritize reproducibility (clear README, setup, project structure)
+
+## 🛠 Tech Stack
 
 - **Languages:** Python, SQL
-- **Data:** Pandas, NumPy, Matplotlib/Seaborn
-- **ML/AI:** scikit-learn, [PyTorch/TensorFlow if true], [Hugging Face if true]
-- **Tools:** Git, Jupyter, [Docker if true]
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn
+- **ML/AI:** scikit-learn, XGBoost, Linear Regression, Prophet, RNN, Hugging Face, TensorFlow
+- **Tools:** Git, Jupyter, Docker, Streamlit
 
-## Background
+## 📈 Profile Goals (Next 90 Days)
+
+- Publish 3 strong Data/AI repositories with polished READMEs
+- Show measurable progress over time (iterations > one-shot demos)
+- Document limitations honestly and propose realistic next steps
+
+## 🎓 Background
 
 - Data Science & AI Bootcamp - **Le Wagon**
-- Currently deepening skills through hands-on GitHub projects
+- Continuous learning through hands-on projects and open sharing
 
-## Open To
+## 💼 Open To
 
-Data Scientist (junior), ML/AI internship, or entry-level AI/Data roles.  
-Open to collaboration on practical AI/data projects.
+Junior Data Scientist, ML/AI internship, or entry-level Data/AI roles.  
+Also open to collaboration on practical AI/data projects.
 
-## Contact
+## 📫 Let's Connect
 
-- LinkedIn: [your-linkedin]
-- Email: [your-email]
+- LinkedIn: [nicolas-geng](https://www.linkedin.com/in/nicolas-geng/)
+- Email: [Contact@allrun.ch](mailto:Contact@allrun.ch)
 
 ---
 
-### Honesty statement
-Everything presented here is based on real projects and current skill level.  
-I explicitly document limits, trade-offs, and what is still in progress.
+## ✅ Honesty Statement
+Everything shown here is based on real projects and my current skill level.  
+I make limitations explicit and never overclaim results.
