@@ -87,9 +87,3 @@ Also open to collaboration on practical AI/data projects.
 
 - LinkedIn: [nicolas-geng](https://www.linkedin.com/in/nicolas-geng/)
 - Email: [Contact@allrun.ch](mailto:Contact@allrun.ch)
-
----
-
-## ✅ Honesty Statement
-Everything shown here is based on real projects and my current skill level.  
-I make limitations explicit and never overclaim results.
