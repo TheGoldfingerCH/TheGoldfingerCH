@@ -1,4 +1,4 @@
-# Hey, I'm Nicolas Geng 👋
+# Hey, I'm Nicolas 👋
 
 **Data Science & AI graduate from Le Wagon | Building practical AI and data projects in public 🚀**
 
