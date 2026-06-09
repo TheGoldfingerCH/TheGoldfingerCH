@@ -39,19 +39,19 @@
 - **Result:** Public service deployed with documented endpoints (`/` and `/predict`) and Swagger docs.
 - **Repo:** https://github.com/TheGoldfingerCH/AI_for_Finance
 
-### 2) data-fast-api
+### 2) llm-code-bench
+- **Problem:** Measure how reliably LLMs can recall specific code sections when given large source files as context.
+- **Approach:** Build a CLI benchmark that embeds JS/Python source files in the context window, asks models to reproduce named functions verbatim, and scores results line-by-line with LCS alignment.
+- **Stack:** Python, Plotly, OpenAI-compatible API (Ollama, LM Studio, OpenAI…)
+- **Result:** Modular benchmark framework with automated scoring and comparative dashboards across models and corpus sizes.
+- **Repo:** https://github.com/TheGoldfingerCH/llm-code-bench
+
+### 3) data-fast-api
 - **Problem:** Create a practical API-first project structure for serving data/ML features.
 - **Approach:** Build a lightweight FastAPI service with clear endpoint structure and reproducible setup.
 - **Stack:** Python, FastAPI, Docker
 - **Result:** Working repository focused on API delivery and clean backend foundations for data use cases.
 - **Repo:** https://github.com/TheGoldfingerCH/data-fast-api
-
-### 3) data-agents
-- **Problem:** Explore agent-based workflows for data and AI tasks.
-- **Approach:** Prototype agent-oriented patterns to automate multi-step data/AI operations.
-- **Stack:** Python, AI/ML tooling, agent workflows
-- **Result:** Active experimentation repository to develop practical agentic use cases.
-- **Repo:** https://github.com/TheGoldfingerCH/data-agents
 
 ## 🧠 How I Build
 
