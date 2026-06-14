@@ -46,7 +46,14 @@
 - **Result:** Modular benchmark framework with automated scoring and comparative dashboards across models and corpus sizes.
 - **Repo:** https://github.com/TheGoldfingerCH/llm-code-bench
 
-### 3) data-fast-api
+### 3) mcp-imap
+- **Problem:** AI assistants like Hermes or Claude Desktop have no native access to email — reading, searching, and sending mails requires leaving the chat entirely.
+- **Approach:** Build a zero-dependency MCP server using Python's built-in `imaplib` and `smtplib` — no third-party packages, no supply chain risk, works with any IMAP/SMTP provider.
+- **Stack:** Python (stdlib only), MCP protocol, IMAP/SMTP
+- **Result:** A drop-in MCP tool giving any AI assistant (Hermes, Claude Desktop, Cursor) full email access — list, read, search, send, move — in a single 200-line file.
+- **Repo:** https://github.com/TheGoldfingerCH/mcp-imap
+
+### 4) data-fast-api
 - **Problem:** Create a practical API-first project structure for serving data/ML features.
 - **Approach:** Build a lightweight FastAPI service with clear endpoint structure and reproducible setup.
 - **Stack:** Python, FastAPI, Docker
